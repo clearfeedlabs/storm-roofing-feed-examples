@@ -1,0 +1,37 @@
+{
+  "states": [
+    "FL"
+  ],
+  "eventTypes": [
+    "hurricane",
+    "wind",
+    "tornado"
+  ],
+  "minWindMph": 74,
+  "lookbackDays": 7,
+  "includeFemaCountyZips": true,
+  "maxRows": 300,
+  "onlyNewSinceLastRun": false,
+  "minHailInches": "1",
+  "bufferMiles": 3,
+  "includeNwsAlerts": true,
+  "includeStormEventsHistory": false,
+  "historyDays": 120,
+  "includeFema": true,
+  "includePermits": true,
+  "permitCities": [
+    "austin",
+    "minneapolis",
+    "new-orleans",
+    "baton-rouge",
+    "dallas",
+    "fort-worth",
+    "miami-dade"
+  ],
+  "permitWindowDays": 14,
+  "baselineWeeks": 52,
+  "surgeRatio": "2",
+  "minSurgePermits": 5,
+  "maxGeocodePerRun": 15000,
+  "includePermitSurgeZips": false
+}
