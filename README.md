@@ -33,6 +33,12 @@ See `sample-output.json` for one trimmed record.
 ## Pricing
 Pay per result: **$5.00 per 1,000 storm ZIP rows**, with no subscription. The [Store page](https://apify.com/clearfeedlabs/storm-roofing-feed) always shows current prices and every optional add-on event.
 
+## Related Clearfeed Labs Actors
+- [Local Business Leads Finder: Emails & Phones, No Google](https://apify.com/clearfeedlabs/local-business-leads): local business leads with phones and websites
+- [311 Complaints by District: Pain-Point & Spike Tracker](https://apify.com/clearfeedlabs/district-pain-point-tracker): 311 complaint spikes by council district
+- [Retirement Place Scorer: Compare US Counties (Census, NOAA)](https://apify.com/clearfeedlabs/retirement-place-scorer): US counties ranked for retirement
+- [All Clearfeed Labs Actors](https://apify.com/clearfeedlabs)
+
 ## FAQ
 **Is this data official?** Yes. It comes from the public source named above, and each record links back to it.
 **Do I need a login or proxy?** No. It uses documented public endpoints only.
